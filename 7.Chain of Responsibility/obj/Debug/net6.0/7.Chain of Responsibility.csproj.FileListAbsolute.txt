@@ -1,0 +1,14 @@
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.AssemblyInfoInputs.cache
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.AssemblyInfo.cs
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.csproj.CoreCompileInputs.cache
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\bin\Debug\net6.0\7.Chain of Responsibility.exe
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\bin\Debug\net6.0\7.Chain of Responsibility.deps.json
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\bin\Debug\net6.0\7.Chain of Responsibility.runtimeconfig.json
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\bin\Debug\net6.0\7.Chain of Responsibility.dll
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\bin\Debug\net6.0\7.Chain of Responsibility.pdb
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.dll
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\refint\7.Chain of Responsibility.dll
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.pdb
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\7.Chain of Responsibility.genruntimeconfig.cache
+D:\Nauka\Wzorce PRojektowe\7\7.Chain of Responsibility\obj\Debug\net6.0\ref\7.Chain of Responsibility.dll
